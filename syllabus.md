@@ -35,7 +35,7 @@ an exception.
 ## Assignments and Grades
 
 The seminar will have no formal assignments or tests. There may be optional
-tasks or assignments to help solids ideas presented in the seminar, but these
+tasks or assignments to help solidify ideas presented in the seminar, but these
 will not be graded.
 
 The class is available as Credit/No Credit. Students who observe the attendance
