@@ -17,7 +17,7 @@ Content is written using markdown and compiled into revealjs slides to be served
 from the web.
 
 I use [pandoc][pandoc_home] to convert the markdown notes to html
-[revealjs][revlealjs_home] slideshows. This is not pertinient to git but illustrates 
+[revealjs][revealjs_home] slideshows. This is not pertinient to git but illustrates 
 my process.
 
 > `pandoc -t revealjs -s notes/*.md -o notes/*.html`
