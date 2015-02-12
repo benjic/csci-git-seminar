@@ -10,4 +10,4 @@ Content is written using markdown and compiled into revealjs slides to be served
 from the web.
 
 `pandoc -t revealjs -s notes/*.md -o notes/*.html`
-`python -m http.server
+`python -m http.server`
