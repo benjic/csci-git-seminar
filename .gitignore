@@ -1,0 +1,5 @@
+# No pandoc artifacts
+*.html
+
+# Shell Artifiacts
+*.txt
