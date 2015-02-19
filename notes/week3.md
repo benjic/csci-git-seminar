@@ -24,7 +24,7 @@
 	parameter = value
  
 # Example section for user parameters
-[us er]
+[user]
 	name = Ben Campbell
 	email = me@benjica.com
 ```
