@@ -11,6 +11,10 @@ structures within git while functionally exploring the git command set. This
 provides a foundational understanding of git that can extended upon in practice
 as well as a working knowledge of tools utilizing git.
 
+## Additional Content
+
+The [wiki][1] contains additional information and links to additional content.
+
 ## Build
 
 Content is written using markdown and compiled into revealjs slides to be served 
@@ -28,3 +32,4 @@ Subsequently, I use python to start a simple webserver to server the slideshows.
 
 [pandoc_home]: http://johnmacfarlane.net/pandoc/
 [revealjs_home]: https://github.com/hakimel/reveal.js/
+[1]: https://github.com/benjic/csci-git-seminar/wiki
