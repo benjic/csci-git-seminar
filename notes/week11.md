@@ -48,10 +48,6 @@
 
 # Example
 
-## This slide is pointless
-
-Someone should really remove it!
-
 ## MORE CHAOS
 
 Someone should add more useless slides!
