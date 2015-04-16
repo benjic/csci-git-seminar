@@ -48,10 +48,6 @@
 
 # Example
 
-## This slide is pointless
-
-Someone should really remove it!
-
 ## Feature Branch
 
 * Create new branch from the main(**master**) branch
