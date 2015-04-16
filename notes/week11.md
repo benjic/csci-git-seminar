@@ -48,9 +48,9 @@
 
 # Example
 
-## This slide is pointless
+## This slide is purposeful 
 
-Someone should really remove it!
+yeah!
 
 ## Feature Branch
 
