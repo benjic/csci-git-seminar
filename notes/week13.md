@@ -47,6 +47,10 @@ You can push a temporary commit and pop previous stash commits
 
 # Hooks
 
+##
+
+![Hooks][1]
+
 ## Embarrassment
 Often we have tests for our code. You pushed a commit that fails.
 
@@ -55,6 +59,9 @@ Why didn't you just run your tests before pushing? You forgot!
 
 ## Introducing Hooks
 git allows you to run scripts and key points of the git process
+
+* pre-push
+* pre-commit
 
 ## Example
 
@@ -72,4 +79,21 @@ Given a commit or range it applies the commit to current branch
 * We can construct collective fixes/features
 * Backport feature/fixes to previous releases
 
-## Example
+## 
+
+![Git Flow][2]
+
+## Commands
+
+`git cherry-pick 123abd90f`
+`git cherry-pick ..master`
+
+
+# The End
+
+## 
+
+Thanks!
+
+[1]: images/hooks.jpg
+[2]: images/git-flow.svg
